@@ -1,0 +1,9 @@
+buildNumber: 0
+image:
+  tag: latest
+
+service:
+  type: NodePort
+  nodePort: 30200
+
+
