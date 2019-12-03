@@ -3,11 +3,11 @@ entries:
   frontend-charts:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-12-03T18:37:51.052505+05:30"
+    created: "2019-12-03T18:42:27.023349+05:30"
     description: A Helm chart for Kubernetes
     digest: 092fd2ac1ff83d663572a4146b4eda7d675d31fabb64e71fade8749a75d1b5d3
     name: frontend-charts
     urls:
-    - https://mandeepmehra.github.com/helm-chart/frontend-charts-0.1.0.tgz
+    - https://mandeepmehra.github.io/helm-chart/frontend-charts-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-03T18:37:51.051549+05:30"
+generated: "2019-12-03T18:42:27.0229+05:30"
